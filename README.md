@@ -15,4 +15,4 @@ Please Note: You can take a look in the subject.pdf file for more relative infor
 
 ## RESULT
 
-<img width="1172" alt="Screenshot 2022-11-01 at 04 42 10" src="https://user-images.githubusercontent.com/85942176/199166639-99c71e04-b697-4258-a9fc-d00b7434d15f.png">
+<img width="846" alt="Screenshot 2022-11-01 at 07 36 30" src="https://user-images.githubusercontent.com/85942176/199173813-89c644a6-db75-4faf-abce-5e752dfcce76.png">
